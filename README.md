@@ -7,6 +7,15 @@ Welcome to "Real-World Design Patterns in Java" – a comprehensive repository d
 ## How to navigate
 Each package is created to host one pattern with a real-world example where there is also a `.md` file that describes each pattern and use case
 
+## Table of Content
+- [Creational](./src/main/java/creational)
+- [Structural](./src/main/java/structural)
+- [Behavioral](./src/main/java/behavioral)
+- [Domain-Driven](./src/main/java/domain/driven)
+- [Architectural](./src/main/java/architictural)
+- [Integration](./src/main/java/integration)
+
+
 ## What You'll Find Here
 
 - Practical Examples: Each design pattern is demonstrated with real-world use cases, making the theoretical concepts tangible and relatable.
