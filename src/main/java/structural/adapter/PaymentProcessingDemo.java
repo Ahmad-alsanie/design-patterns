@@ -1,4 +1,4 @@
-package adapter;
+package structural.adapter;
 
 public class PaymentProcessingDemo {
     public static void main(String[] args) {

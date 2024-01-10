@@ -1,4 +1,4 @@
-package adapter;
+package structural.adapter;
 
 class StripeAdapter implements PayPalPaymentProcessor {
     private StripePaymentProcessor stripeProcessor;

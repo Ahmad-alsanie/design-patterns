@@ -5,6 +5,11 @@ It acts as a bridge between two otherwise incompatible interfaces or classes.
 
 This pattern is particularly useful when you want to integrate new features or components into existing systems without changing the existing code.
 
+### Components
+- Target Interface: the interface that the client expects or knows how to work with.
+- Adaptee: the class that needs to be adapted and has a different interface from what the client expects.
+- Adapter: the class that implements the target interface and contains a reference to an instance of the adaptee. The adapter translates calls from the target interface into a form that the adaptee's interface can understand.
+
 ### Scenario: 
 Imagine you have an e-commerce application that initially processes payments using a `PayPalPaymentProcessor`. 
 

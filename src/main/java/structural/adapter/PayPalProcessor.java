@@ -1,4 +1,4 @@
-package adapter;
+package structural.adapter;
 
 class PayPalProcessor implements PayPalPaymentProcessor {
     public void processPayment(String amount) {

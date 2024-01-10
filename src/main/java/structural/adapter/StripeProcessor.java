@@ -1,4 +1,4 @@
-package adapter;
+package structural.adapter;
 
 class StripeProcessor implements StripePaymentProcessor {
     public void pay(String amount) {
