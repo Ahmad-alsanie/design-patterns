@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.design.pattern</groupId>
-    <artifactId>design-patterns</artifactId>
+    <artifactId>design-patterns-made-simple</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>

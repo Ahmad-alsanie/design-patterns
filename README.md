@@ -1,8 +1,8 @@
-# Design patterns
+# Design patterns Made Simple
 Real-World Design Patterns in Java. A comprehensive collection of most design patterns you need to know as a java developer.
 
 ## Description
-Welcome to "Real-World Design Patterns in Java" – a comprehensive repository dedicated to exploring classic design patterns through practical, real-world examples. This repository serves as an invaluable resource for both budding and seasoned developers who wish to deepen their understanding of design patterns and see how they're applied in everyday programming scenarios.
+A comprehensive repository dedicated to exploring classic design patterns through practical, real-world examples. This repository serves as an invaluable resource for developers who wish to deepen their understanding of design patterns and see how they're applied in everyday programming scenarios.
 
 ## How to navigate
 Each package is created to host one pattern with a real-world example where there is also a `.md` file that describes each pattern and use case
