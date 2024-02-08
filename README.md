@@ -8,12 +8,12 @@ A comprehensive repository dedicated to exploring classic design patterns throug
 Each package is created to host one pattern with a real-world example where there is also a `.md` file that describes each pattern and use case
 
 ## Table of Content
-- [Creational](./src/main/java/creational)
-- [Structural](./src/main/java/structural)
-- [Behavioral](./src/main/java/behavioral)
-- [Domain-Driven](./src/main/java/domain/driven)
-- [Architectural](./src/main/java/architictural)
-- [Integration](./src/main/java/integration)
+- [Creational](src/main/java/com/sanie/creational)
+- [Structural](src/main/java/com/sanie/structural)
+- [Behavioral](src/main/java/com/sanie/behavioral)
+- [Domain-Driven](src/main/java/com/sanie/driven)
+- [Architectural](src/main/java/com/sanie/architictural)
+- [Integration](src/main/java/com/sanie/Integration)
 
 
 ## What You'll Find Here
