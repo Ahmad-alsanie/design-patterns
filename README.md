@@ -2,7 +2,7 @@
 A collection of most design patterns you need to know as a software engineer with real-world examples on each pattern.
 
 ## Description
-A comprehensive repository dedicated to explaining design patterns through practical, real-world examples. This repository serves as an resource for developers who wish to deepen their understanding of design patterns and see how they're applied in everyday programming scenarios.
+The  repository dedicated to explaining design patterns through practical, real-world examples.
 
 ## How to navigate
 Each package is created to host one pattern with a real-world example where there is also a `.md` file that describes each pattern and use case
