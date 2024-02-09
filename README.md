@@ -30,7 +30,9 @@ Each package is created to host one pattern with a real-world example where ther
 - Computer science students seeking real-world applications of theoretical concepts.
 - Anyone curious about how design patterns solve everyday problems in software design.
 
-## Contribute & Collaborate
-This is an open-source initiative, and contributions are warmly welcomed. Whether it's refining the existing examples, adding new patterns, or improving documentation, your insights can help make this a richer resource for everyone.
+## Contributing
 
-Explore, learn, and create with design patterns that power real-world software!
+Contributions are welcome! If you have improvements or additions, please submit a pull request or open an issue.
+
+-------------------------------------------------------------
+Happy coding!
