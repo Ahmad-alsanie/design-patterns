@@ -1,6 +1,6 @@
 package com.sanie.structural.adapter;
 
 
-interface PayPalPaymentProcessor {
+interface PaymentProcessor {
     void processPayment(String amount);
 }

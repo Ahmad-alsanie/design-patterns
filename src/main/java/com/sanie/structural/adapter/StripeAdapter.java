@@ -1,7 +1,7 @@
 package com.sanie.structural.adapter;
 
-class StripeAdapter implements PayPalPaymentProcessor {
-    private StripePaymentProcessor stripeProcessor;
+class StripeAdapter implements PaymentProcessor {
+    private final StripePaymentProcessor stripeProcessor;
 
     public StripeAdapter(StripePaymentProcessor stripeProcessor) {
         this.stripeProcessor = stripeProcessor;
