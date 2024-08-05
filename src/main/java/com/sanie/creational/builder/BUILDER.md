@@ -6,10 +6,9 @@ It separates the construction of an object from its representation, allowing the
 This pattern is particularly useful when an object needs to be created with many possible configurations and parameters, some of which may be optional.
 
 ### Components
-- Builder: an interface that defines all the steps to build a part of the object.
-- Concrete Builder: implements the Builder interface and provides an implementation for the steps defined in the `Builder`. Each concrete `Builder` corresponds to a different representation of the product.
+- Builder: defines the methods to build the parts of the complex object
+- Concrete Builder: provides specific implementations for the steps defined by the Builder
 - Director: the class is responsible for managing the construction process. It accepts a `Builder` object and executes the building steps to construct the object.
-- Product: the object that is being built.
 
 ### Scenario
 Imagine you are developing a `RESTful` service for a social media platform. 
