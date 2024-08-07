@@ -11,7 +11,7 @@ It's often used when the exact types of objects to be created are not known unti
 - Abstract Factory: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
 ### Scenario
-Consider a web application for a job portal where different types of users, like job seekers and employers, can register. 
+Consider a web application for a job portal where different types of users, like job-seekers and employers, can register. 
 
 Each type of user has different properties and behaviors. 
 
