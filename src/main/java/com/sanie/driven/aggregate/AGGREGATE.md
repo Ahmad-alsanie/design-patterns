@@ -11,6 +11,6 @@ An Aggregate is a cluster of domain objects (entities and value objects) that ca
 Consider an e-commerce application with an order processing system. An `Order` aggregate can include multiple entities like `OrderItems`, `PaymentDetails`, etc. The `Order` entity would be the Aggregate Root here, ensuring the consistency of the entire order.
 
 ### Use case
-Take a look at ```OrderService``` to see how we enforcing invariants and consistency rules.
+Take a look at ```OrderService``` to see how we're enforcing invariants and consistency rules.
 
 The Aggregate Pattern is crucial for managing complex domain models by ensuring consistency and enforcing business rules across multiple entities and value objects in a domain.
