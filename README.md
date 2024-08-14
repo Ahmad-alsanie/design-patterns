@@ -28,10 +28,6 @@ Each package is created to host one pattern with a real-world example where ther
 ## Contributing
 
 Contributions are welcome! If you have improvements or additions, please submit a pull request or open an issue.
-
--------------------------------------------------------------
-Happy coding!
- 
  
  
  
